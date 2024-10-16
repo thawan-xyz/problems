@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.29)
-project(equalizing-numbers C)
-
-set(CMAKE_C_STANDARD 17)
-
-add_executable(equalizing-numbers main.c)
